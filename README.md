@@ -1,2 +1,4 @@
 # hello-world
-Repository initialization
+
+User.name = Marcos
+User.age = 34
